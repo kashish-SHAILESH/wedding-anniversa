@@ -1,0 +1,45 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+body{
+  text-align:center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHm6NFUFbjZj1JkPy8JwgaaSWbVMdNb6N7Pw&usqp=CAU) ;
+    background-size:100% 100% ;
+  
+}
+img{
+    width:500px;
+    }
+    label{
+        margin: 20px 0px 4px 6px;
+        font-size: 16px;
+    }
+    h1{
+        font-size: 1.6em;
+        text-align: center;
+        width: 280px;
+        margin: 20px auto;
+        color:white;
+    }
+    h2{
+        font-size: 1.6em;
+        text-align: center;
+        width: 280px;
+        margin: 20px auto;
+        color: yellow;
+    }
+    h3{
+        font-size: 1.6em;
+        text-align: center;
+        width: 280px;
+        margin: 20px auto;
+        color: orange;
+    }
+h1,h2,h3{
+    font-family: 'Nova Flat', cursive;
+    text-align:center;
+}
+.block{
+    display: block;
+}
